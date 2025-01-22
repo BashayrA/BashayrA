@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision and VR 
 - 🌱 I’m currently learning modeling, ML, and japanese language :)
 - 📫 How to reach me via email
-- ⚡ Fun fact: I can memorise short numbers from 6 - 10 digits when I read them for once 😎
+- ⚡ Fun fact: I can memorise short numbers from 6 - 10 digits when I reading them once 😎
 
 <!---
 BashayrA/BashayrA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
