@@ -2,19 +2,20 @@
 
 <h3 align="center">👋 About Me</h3>
 
-Hi! I'm Bashayr — a computer science student who enjoys learning new things, building small projects, and exploring game development. I like trying different tools, improving my skills step by step, and sharing what I learn along the way.
+Hi! I'm Bashayr, an artificial intelligence student who enjoys learning new things, building projects, and exploring game development. I like trying different tools, improving my skills step by step, and sharing what I learn along the way.
 
 <h3 align="center">🎮 What I’m Into</h3>
 
 - Game development basics  
-- Coding simple projects  
+- Coding projects  
 - Learning by experimenting  
 
 <h3 align="center">🌱 What I’m Doing Now</h3>
 
 - Growing my skills  
-- Joining game jams  
+- Learning cool stuff about hardware 
 - Building my portfolio
+- Watching Harry Potter movies for the 394th time!
 
 ###
 
