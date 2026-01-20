@@ -1,4 +1,4 @@
-<h3 align="center">DES</h3>
+<h3 align="center">I’m Bashayr, a junior artificial intelligence student who enjoys learning, building projects, and exploring game development. I like trying new tools, improving my skills, and sharing what I learn along the way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashayra&label=Profile%20views&color=0e75b6&style=flat" alt="bashayra" /> </p>
 
