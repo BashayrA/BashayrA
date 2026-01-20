@@ -1,4 +1,22 @@
-<h3 align="center"> ##Hey, I’m Bashayr! \na junior artificial intelligence student who enjoys learning, building projects, and exploring game development. I like trying new tools, improving my skills, and sharing what I learn along the way</h3>
+###
+
+<h3 align="center">👋 About Me</h3>
+
+Hi! I'm Bashayr — a computer science student who enjoys learning new things, building small projects, and exploring game development. I like trying different tools, improving my skills step by step, and sharing what I learn along the way.
+
+<h3 align="center">🎮 What I’m Into</h3>
+
+- Game development basics  
+- Coding simple projects  
+- Learning by experimenting  
+
+<h3 align="center">🌱 What I’m Doing Now</h3>
+
+- Growing my skills  
+- Joining game jams  
+- Building my portfolio
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashayra&label=Profile%20views&color=0e75b6&style=flat" alt="bashayra" /> </p>
 
